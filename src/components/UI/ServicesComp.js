@@ -8,7 +8,7 @@ const ServicesComp = (props) => {
         div className = { classes.cnt } >
         <
         img src = { props.imgicn }
-        src = "loading" / >
+        alt = "loading" / >
         <
         h4 > { props.hd } < /h4> <
         p > { props.det } < /p> <
