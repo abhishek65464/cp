@@ -3,20 +3,18 @@
   width: 100%;
   background-color: #f5f9fc;  
   opacity: 80%;
-  position: fixed;
+  position: fixed; 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
   font-family: 'Lato', 'Regular';
   top: 0;
-
+  z-index: 2;
 }
 
-
-
 .header > img {
-   
+   position: fixed;
   width: 9.745rem;
   height: 2.103;
 

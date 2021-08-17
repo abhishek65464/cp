@@ -36,6 +36,7 @@
 }
 
 .midCont input{
+  position: relative;
   background-color: #E1E9F0;
   margin: 0 5px;
   height: 3rem;
