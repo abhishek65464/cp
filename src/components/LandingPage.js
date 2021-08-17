@@ -23,7 +23,7 @@ const LandingPage = () => {
         form >
 
         <
-        Button type = "button" > Schedule a call < /Button> <
+        Button type = "button" > Start free trial < /Button> <
         /form> <
         /div> <
         /div> <
