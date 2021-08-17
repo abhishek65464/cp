@@ -10,8 +10,8 @@ const ServicesComp = (props) => {
         img src = { props.imgicn }
         alt = "loading" / >
         <
-        h4 > {
-            [props.hd, props.det] } < /h4>             <
+        h4 > { props.hd } < /h4> <
+        p > { props.det } < /p> <
         /div>
     )
 }
