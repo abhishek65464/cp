@@ -6,7 +6,8 @@ const HwCmp = (props) => {
         div className = { classes.hwCnt } >
         <
         img src = { props.imgIcn }
-        src = "loading" > < /img> <
+        alt = "loading" / >
+        <
         h4 > { props.hwt } < /h4> <
         p > { props.hwd } < /p> <
         /div>

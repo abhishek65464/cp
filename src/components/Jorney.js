@@ -12,7 +12,7 @@ const Jorney = (props) => {
         h1 > Your Journey Retold < br / > With Transparency Via Digitally Verified Supply Chain Tracing < /h1>  <
         Button className = { classes.btn } > Schedule a call < /Button> <
         /div> <
-        img alt = "image loading"
+        img alt = "loading"
         src = { imgJr }
         /> <
         /div>

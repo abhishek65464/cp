@@ -1,8 +1,6 @@
 import classes from './Subs.module.css';
 import Button from '../UI/Button';
 import PlaceHolder from '../UI/PlaceHolder';
-import gStore from '../../assets/gstore.png';
-import aplStore from '../../assets/apleStore.png';
 
 const Subs = (props) => {
     return <div className = { classes.subCnt } >

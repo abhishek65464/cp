@@ -15,7 +15,7 @@ const Badges = (props) => {
         Button className = { classes.btn } > Schedule a call < /Button> <
         /div> <
         img src = { imgBd }
-        alt = 'image' / >
+        alt = 'loading' / >
         <
         /div>
     )

@@ -8,13 +8,13 @@ const Header = (props) => {
         <
         ul className = { classes.pgln } >
         <
-        li > < a > Services < /a></li >
+        li > < a href = "/" > Services < /a></li >
         <
-        li > < a > Industry < /a></li >
+        li > < a href = "/" > Industry < /a></li >
         <
-        li > < a > About < /a></li >
+        li > < a href = "/" > About < /a></li >
         <
-        li > < a > Contact Us < /a></li >
+        li > < a href = "/" > Contact Us < /a></li >
         <
         /ul> <
         div className = { classes.imgCont } > < img src = { logoImg }
