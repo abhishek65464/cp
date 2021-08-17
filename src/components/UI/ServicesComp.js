@@ -2,14 +2,17 @@ import classes from './ServicesComp.module.css';
 
 
 
-const ServicesComp = (props) =>{
+const ServicesComp = (props) => {
 
-    return(
-        <div className={classes.cnt}>
-            <img src={props.imgicn}></img>
-            <h4>{props.hd}</h4>
-            <p>{props.det}</p>
-        </div>
+    return ( <
+        div className = { classes.cnt } >
+        <
+        img src = { props.imgicn }
+        src = "loading" / >
+        <
+        h4 > { props.hd } < /h4> <
+        p > { props.det } < /p> <
+        /div>
     )
 }
 

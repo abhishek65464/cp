@@ -1,13 +1,15 @@
 import classes from './HwCmp.module.css';
 
-const HwCmp = (props) =>{
+const HwCmp = (props) => {
 
-    return(
-        <div className={classes.hwCnt}>
-                <img src={props.imgIcn}></img>
-                <h4>{props.hwt}</h4>
-                <p>{props.hwd}</p>
-        </div>
+    return ( <
+        div className = { classes.hwCnt } >
+        <
+        img src = { props.imgIcn }
+        src = "loading" > < /img> <
+        h4 > { props.hwt } < /h4> <
+        p > { props.hwd } < /p> <
+        /div>
     );
 }
 
