@@ -6,7 +6,7 @@ const DefPtr = (props) => {
         <
         div className = { classes.moto } >
         <
-        h2 > Entire journey of the product at your fingertips < /h2> <
+        h2 > Entire journey of your product at your fingertips < /h2> <
         p > hello @traceabl.io < /p> <
         /div> <
         div className = { classes.service } >
@@ -21,7 +21,7 @@ const DefPtr = (props) => {
         <
         h4 > Contact Us < /h4> <
         p > hello @traceabl.io < /p> <
-        p > +918495066909 < /p> <
+        p > +91 8495066909 < /p> <
         /div> <
         /div>
 }

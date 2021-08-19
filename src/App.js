@@ -26,7 +26,7 @@ function App() {
         p > VISION < /p> <
         h1 > We’ ve always been obsessed with making work better
         for people < /h1> <
-        p > Source brings your together, in one central place.They’ re easy to find and safely synced across all your devices— so you can access them anytime, anywhere.No more wasting the day tracking down work. < /p> <
+        p className = "para" > Source brings your together, in one central place.They’ re easy to find and safely synced across all your devices— so you can access them anytime, anywhere.No more wasting the day tracking down work. < /p> <
         /div> <
         div className = 'manufacture' >
         <

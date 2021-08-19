@@ -17,7 +17,7 @@ const Source = (props) => {
         li > < a href = "/" > Contact Us < /a></li >
         <
         /ul> <
-        p > 2021 traceable.io < /p> <
+        p > 2021 traceabl.io < /p> <
         /div>
 }
 
